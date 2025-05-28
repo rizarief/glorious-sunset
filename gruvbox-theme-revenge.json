@@ -178,9 +178,9 @@
     "SourceCodePro-Semibold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Medium.ttf?raw=1"
   },
   "background": {
-    "blur": 0.7,
-    "url": "https://raw.githubusercontent.com/eeriemyxi/gruvbox-theme-revenge/refs/heads/main/assets/bg-modified.png",
-    "alpha": 0.8
+    "blur": 0,
+    "url": "https://raw.githubusercontent.com/eeriemyxi/gruvbox-theme-revenge/refs/heads/main/assets/bg-modified-glow.png",
+    "alpha": 1
   },
   "plus": {
     "version": "0",
