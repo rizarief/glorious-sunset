@@ -179,7 +179,7 @@
   },
   "background": {
     "blur": 0.7,
-    "url": "http://192.168.29.35:8090/bg-modified.png",
+    "url": "https://raw.githubusercontent.com/eeriemyxi/gruvbox-theme-revenge/refs/heads/main/assets/bg-modified.png",
     "alpha": 0.8
   },
   "plus": {

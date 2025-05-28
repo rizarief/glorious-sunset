@@ -5,7 +5,7 @@ Gruvbox medium theme for [Revenge](https://github.com/revenge-mod/revenge-bundle
 Go to **Themes** under **Revenge** in **Settings**, then tap the (+) button, finally paste this URL:
 
 ```
-[TODO]
+https://github.com/eeriemyxi/gruvbox-theme-revenge/raw/refs/heads/main/gruvbox-theme-revenge.json
 ```
 
 # Screenshots
