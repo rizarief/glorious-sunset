@@ -1,5 +1,5 @@
-# Gruvbox Theme For Revenge
-Gruvbox medium theme for [Revenge](https://github.com/revenge-mod/revenge-bundle).
+# Glorious Sunset
+Gruvbox-based theme for [Revenge](https://github.com/revenge-mod/revenge-bundle).
 
 ---
 
@@ -9,7 +9,7 @@ If you like the theme, feel free to thank me by giving this repository a **★ s
 Go to **Themes** under **Revenge** in **Settings**, then tap the (+) button, finally paste this URL:
 
 ```
-https://github.com/eeriemyxi/gruvbox-theme-revenge/raw/refs/heads/main/gruvbox-theme-revenge.json
+https://github.com/eeriemyxi/glorious-sunset/raw/refs/heads/main/theme.json
 ```
 
 # Credits
