@@ -178,7 +178,7 @@
     "SourceCodePro-Semibold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Medium.ttf?raw=1"
   },
   "background": {
-    "blur": 0,
+    "blur": 1,
     "url": "https://raw.githubusercontent.com/rizarief/glorious-sunset/refs/heads/main/Picsart_25-08-20_21-31-09-320.jpg",
     "alpha": 1
   },
