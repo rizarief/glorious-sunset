@@ -3,7 +3,7 @@
   "description": "Gruvbox-based theme for Revenge.",
   "authors": [
     {
-      "name": "myxi",
+      "name": "rizarief",
       "id": "598134630104825856"
     }
   ],
@@ -179,7 +179,7 @@
   },
   "background": {
     "blur": 0,
-    "url": "https://github.com/rizarief/ThemesCorrected/blob/main/ClearVision/Vendetta/Picsart_25-08-20_21-31-09-320.jpg",
+    "url": "https://raw.githubusercontent.com/rizarief/glorious-sunset/refs/heads/main/Picsart_25-08-20_21-31-09-320.jpg",
     "alpha": 1
   },
   "plus": {
